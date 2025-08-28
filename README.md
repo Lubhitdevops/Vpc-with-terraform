@@ -1,12 +1,3 @@
-Got it 👍 You want a **professional README.md** for your Terraform project that explains:
-
-* Technologies used
-* Setup steps (init, plan, apply, destroy)
-* Architecture steps (VPC → Subnets → Route Tables → IGW → EC2)
-* License, acknowledgements
-
-Here’s a clean, well-structured `README.md` draft for your project:
-
 ---
 
 # Terraform AWS VPC + EC2 Deployment 🚀
